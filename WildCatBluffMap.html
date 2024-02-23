@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <link rel="stylesheet" href="WildcatBluffMap.css">
+</head>
+<style>
+  p.solid {outline-style: solid;}
+</style>
+<body>
+  <div id="map" ></div>
+  <div id="marker-data">
+    <div id="gallery-container">
+      <img id="gallery-image" src="" alt="Gallery Image">
+      <div id="gallery-arrows">
+        <button id="prev-arrow">&lt;</button>
+        <button id="next-arrow">&gt;</button>
+      </div>
+    </div>
+    <div id="info-container">
+      <!-- Point info (title and description) will be inserted here -->
+    </div>
+    <div id="navigation-buttons">
+      <!-- Navigation buttons will be inserted here -->
+      <button id="prev-point-btn">&lt; Previous Structure</button>
+ 
+      <button id="next-point-btn">Next Structure &gt;</button>
+    </div>
+  </div>
+  <script src="WildCatBluffMap.js"></script>
+  
+</body>
+</html>
+
+
