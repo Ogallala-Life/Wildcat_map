@@ -122,97 +122,136 @@ var structurePoints = [
    {
      latlng: [35.2487933333333,-101.944646666667],
      title: 'S1_Point 1',
-     images: ['Photos/2024_Photos/1January/Sections/Landmarks/TestPhoto.jpg','Photos/2024_Photos/1January/Sections/Landmarks/TestPhoto2.jpg'], // Array of image paths
+     folderPath: 'Section_1',
+     ttle: 'S1D1_JAN',
+     numOfPhotos: 3,
+     images: [''], 
      description: 'etadsiahgjareobnviuoldgnawajdhvuilajkntralbdgasdf'
    },
-   {
-    latlng: [35.2488166666667,-101.94467],
-    title: 'S1_Point 2',
-    images: ['Photos/2024_Photos/1January/Sections/Section_1/20240128_102711.jpg',''], // Array of image paths
-    description: 'fdhaushgaflbhvuawebnausdhvaisgmasgasdfgasdfr'
-  },
   {
     latlng: [35.2487483333333,-101.945906666667],
-    title: 'S1_Point 3',
-    images: ['Photos/2024_Photos/1January/Sections/Section_2/20240128_102103.jpg', ''], // Array of image paths
+    title: 'S1_Point 2',
+    folderPath: 'Section_1',
+    ttle: 'S1D2_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: 'asfdgopihj lkeha di fgjhaeulf hdfgajs hdga'
   },
   //{
   //  latlng: [],
-  //  title: 'S1_Point 4',
-  //  images: ['', ''], // Array of image paths
+  //  title: 'S1_Point 3',
+  //  folderPath: 'Section_1/S1D3_JAN',
+  //  ttle: 'S1D3_JAN',
+  //  numOfPhotos: 2,
+  //  images: [''], 
   //  description: ''
   //},
   {
     latlng: [35.248305,-101.94591],
-    title: 'S1_Point 5',
-    images: ['Photo/2024_Photos/1January/Sections/Section_3/20240128_102039.jpg', ''], // Array of image paths
+    title: 'S1_Point 4',
+    folderPath: 'Section_1',
+    ttle: 'S1D4_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.2479666666667,-101.945901666667],
-    title: 'S1_Point 6',
-    images: ['', ''], // Array of image paths
+    title: 'S1_Point 5',
+    folderPath: 'Section_1',
+    ttle: 'S1D5_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.2478366666667,-101.945603333333],
-    title: 'S1_Point 7',
-    images: ['', ''], // Array of image paths
+    title: 'S1_Point 6',
+    folderPath: 'Section_1',
+    ttle: 'S1D6_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
  // {
  //   latlng: [],
- //   title: 'S1_Point 8',
- //   images: ['', ''], // Array of image paths
+ //   title: 'S1_Point 7',
+ //   folderPath: 'Section_1',
+ //   ttle: 'S1D7_JAN',
+ //   numOfPhotos: 2,
+ //   images: [''], 
  //   description: ''
  // },
  // {
  //   latlng: [],
- //   title: 'S1_Point 9',
- //   images: ['', ''], // Array of image paths
+ //   title: 'S1_Point 8',
+ //   folderPath: 'Section_1',
+ //   ttle: 'S1D8_JAN',
+ //   numOfPhotos: 2,
+ //   images: [''], 
  //   description: ''
  // },
   {
     latlng: [35.2474133333333,-101.945303333333],
-    title: 'S1_Point 10',
-    images: ['', ''], // Array of image paths
+    title: 'S1_Point 9',
+    folderPath: 'Section_1',
+    ttle: 'S1D9_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.2473433333333,-101.945371666667],
-    title: 'S1_Point 11',
-    images: ['', ''], // Array of image paths
+    title: 'S1_Point 10',
+    folderPath: 'Section_1',
+    ttle: 'S1D10_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.2471183333333,-101.94558],
-    title: 'S1_Point 12',
-    images: ['', ''], // Array of image paths
+    title: 'S1_Point 11',
+    folderPath: 'Section_1',
+    ttle: 'S1D11_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.246965,-101.945966666667],
-    title: 'S1_Point 13',
-    images: ['', ''], // Array of image paths
+    title: 'S1_Point 12',
+    folderPath: 'Section_1',
+    ttle: 'S1D12_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.24691,-101.946168333333],
-    title: 'S1_Point 14',
-    images: ['', ''], // Array of image paths
+    title: 'S1_Point 13',
+    folderPath: 'Section_1',
+    ttle: 'S1D13_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.246865,-101.946505],
-    title: 'S1_Point 15',
-    images: ['', ''], // Array of image paths
+    title: 'S1_Point 14',
+    folderPath: 'Section_1',
+    ttle: 'S1D14_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.2467166666667,-101.946815],
-    title: 'S1_Point 16',
-    images: ['', ''], // Array of image paths
+    title: 'S1_Point 15',
+    folderPath: 'Section_1',
+    ttle: 'S1D15_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
 
@@ -220,73 +259,109 @@ var structurePoints = [
   {
     latlng: [35.2464316666667,-101.947408333333],
     title: 'S2_Point 1',
-    images: ['', ''], // Array of image paths
+    folderPath: 'Section_2',
+    ttle: 'S2D1_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.2462833333333,-101.947761666667],
     title: 'S2_Point 2',
-    images: ['', ''], // Array of image paths
+    folderPath: 'Section_2',
+    ttle: 'S2D2_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.2460266666667,-101.948188333333],
     title: 'S2_Point 3',
-    images: ['', ''], // Array of image paths
+    folderPath: 'Section_2',
+    ttle: 'S2D3_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.24607,-101.948391666667],
     title: 'S2_Point 4',
-    images: ['', ''], // Array of image paths
+    folderPath: 'Section_2',
+    ttle: 'S2D4_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.2459916666667,-101.948588333333],
     title: 'S2_Point 5',
-    images: ['', ''], // Array of image paths
+    folderPath: 'Section_2',
+    ttle: 'S2D5_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.2456716666667,-101.948418333333],
     title: 'S2_Point 6',
-    images: ['', ''], // Array of image paths
+    folderPath: 'Section_2',
+    ttle: 'S2D6_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.2454383333333,-101.948245],
     title: 'S2_Point 7',
-    images: ['', ''], // Array of image paths
+    folderPath: 'Section_2',
+    ttle: 'S2D7_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.245325,-101.947783333333],
     title: 'S2_Point 8',
-    images: ['', ''], // Array of image paths
+    folderPath: 'Section_2',
+    ttle: 'S2D8_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.245345,-101.947328333333],
     title: 'S2_Point 9',
-    images: ['', ''], // Array of image paths
+    folderPath: 'Section_2',
+    ttle: 'S2D9_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.2451783333333,-101.94715],
     title: 'S2_Point 10',
-    images: ['', ''], // Array of image paths
+    folderPath: 'Section_2',
+    ttle: 'S2D10_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.24505,-101.947205],
     title: 'S2_Point 11',
-    images: ['', ''], // Array of image paths
+    folderPath: 'Section_2',
+    ttle: 'S2D11_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   {
     latlng: [35.2448983333333,-101.947525],
     title: 'S2_Point 12',
-    images: ['', ''], // Array of image paths
+    folderPath: 'Section_2',
+    ttle: 'S2D12_JAN',
+    numOfPhotos: 2,
+    images: [''], 
     description: ''
   },
   //Stop Point
@@ -568,6 +643,16 @@ var structurePoints = [
   
   // Add more points as needed
 ];
+
+structurePoints.forEach(point => {
+  // Generate image paths for the current point
+  point.images = generateImagePaths(point.folderPath, point.numOfPhotos, point.ttle);
+  console.log(point.images);
+});
+
+console.log(structurePoints[0])
+
+
 
 var redMarker = L.divIcon({
   className: 'custom-marker',
