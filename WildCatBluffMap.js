@@ -126,7 +126,7 @@ var structurePoints = [
      ttle: 'S1D1_JAN',
      numOfPhotos: 3,
      images: [''], 
-     description: 'etadsiahgjareobnviuoldgnawajdhvuilajkntralbdgasdf'
+     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
    },
   {
     latlng: [35.2487483333333,-101.945906666667],
@@ -135,7 +135,7 @@ var structurePoints = [
     ttle: 'S1D2_JAN',
     numOfPhotos: 2,
     images: [''], 
-    description: 'asfdgopihj lkeha di fgjhaeulf hdfgajs hdga'
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
   },
   //{
   //  latlng: [],
@@ -153,7 +153,7 @@ var structurePoints = [
     ttle: 'S1D4_JAN',
     numOfPhotos: 2,
     images: [''], 
-    description: ''
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
   },
   {
     latlng: [35.2479666666667,-101.945901666667],
@@ -162,7 +162,7 @@ var structurePoints = [
     ttle: 'S1D5_JAN',
     numOfPhotos: 2,
     images: [''], 
-    description: ''
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
   },
   {
     latlng: [35.2478366666667,-101.945603333333],
