@@ -129,7 +129,7 @@ var structurePoints = [
      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
    },
   {
-    latlng: [35.2487483333333,-101.945906666667],
+    latlng: [35.2488166666667,-101.94467],
     title: 'S1_Point 2',
     folderPath: 'Section_1',
     ttle: 'S1D2_JAN',
@@ -137,17 +137,17 @@ var structurePoints = [
     images: [''], 
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
   },
-  //{
-  //  latlng: [],
-  //  title: 'S1_Point 3',
-  //  folderPath: 'Section_1/S1D3_JAN',
-  //  ttle: 'S1D3_JAN',
-  //  numOfPhotos: 2,
-  //  images: [''], 
-  //  description: ''
-  //},
   {
-    latlng: [35.248305,-101.94591],
+   latlng: [35.2487483333333,-101.945906666667],
+   title: 'S1_Point 3',
+   folderPath: 'Section_1',
+   ttle: 'S1D3_JAN',
+   numOfPhotos: 2,
+   images: [''], 
+   description: ''
+  },
+  {
+    latlng: [35.2333333333333,-101.933333333333],
     title: 'S1_Point 4',
     folderPath: 'Section_1',
     ttle: 'S1D4_JAN',
@@ -156,7 +156,7 @@ var structurePoints = [
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
   },
   {
-    latlng: [35.2479666666667,-101.945901666667],
+    latlng: [35.248305,-101.94591],
     title: 'S1_Point 5',
     folderPath: 'Section_1',
     ttle: 'S1D5_JAN',
@@ -165,7 +165,7 @@ var structurePoints = [
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
   },
   {
-    latlng: [35.2478366666667,-101.945603333333],
+    latlng: [35.2479666666667,-101.945901666667],
     title: 'S1_Point 6',
     folderPath: 'Section_1',
     ttle: 'S1D6_JAN',
@@ -173,15 +173,15 @@ var structurePoints = [
     images: [''], 
     description: ''
   },
- // {
- //   latlng: [],
- //   title: 'S1_Point 7',
- //   folderPath: 'Section_1',
- //   ttle: 'S1D7_JAN',
- //   numOfPhotos: 2,
- //   images: [''], 
- //   description: ''
- // },
+ {
+   latlng: [35.2478366666667,-101.945603333333],
+   title: 'S1_Point 7',
+   folderPath: 'Section_1',
+   ttle: 'S1D7_JAN',
+   numOfPhotos: 2,
+   images: [''], 
+   description: ''
+ },
  // {
  //   latlng: [],
  //   title: 'S1_Point 8',
@@ -191,17 +191,26 @@ var structurePoints = [
  //   images: [''], 
  //   description: ''
  // },
+  // {
+ //   latlng: [],
+ //   title: 'S1_Point 8.5',
+ //   folderPath: 'Section_1',
+ //   ttle: 'S1D8_JAN',
+ //   numOfPhotos: 2,
+ //   images: [''], 
+ //   description: ''
+ // },
+  // {
+  //   latlng: [35.2474133333333,-101.945303333333],
+  //   title: 'S1_Point 9',
+  //   folderPath: 'Section_1',
+  //   ttle: 'S1D9_JAN',
+  //   numOfPhotos: 2,
+  //   images: [''], 
+  //   description: ''
+  // },
   {
     latlng: [35.2474133333333,-101.945303333333],
-    title: 'S1_Point 9',
-    folderPath: 'Section_1',
-    ttle: 'S1D9_JAN',
-    numOfPhotos: 2,
-    images: [''], 
-    description: ''
-  },
-  {
-    latlng: [35.2473433333333,-101.945371666667],
     title: 'S1_Point 10',
     folderPath: 'Section_1',
     ttle: 'S1D10_JAN',
@@ -210,7 +219,7 @@ var structurePoints = [
     description: ''
   },
   {
-    latlng: [35.2471183333333,-101.94558],
+    latlng: [35.2473433333333,-101.945371666667],
     title: 'S1_Point 11',
     folderPath: 'Section_1',
     ttle: 'S1D11_JAN',
@@ -219,7 +228,7 @@ var structurePoints = [
     description: ''
   },
   {
-    latlng: [35.246965,-101.945966666667],
+    latlng: [35.2471183333333,-101.94558],
     title: 'S1_Point 12',
     folderPath: 'Section_1',
     ttle: 'S1D12_JAN',
@@ -228,7 +237,7 @@ var structurePoints = [
     description: ''
   },
   {
-    latlng: [35.24691,-101.946168333333],
+    latlng: [35.246965,-101.945966666667],
     title: 'S1_Point 13',
     folderPath: 'Section_1',
     ttle: 'S1D13_JAN',
@@ -237,7 +246,7 @@ var structurePoints = [
     description: ''
   },
   {
-    latlng: [35.246865,-101.946505],
+    latlng: [35.24691,-101.946168333333],
     title: 'S1_Point 14',
     folderPath: 'Section_1',
     ttle: 'S1D14_JAN',
@@ -246,10 +255,19 @@ var structurePoints = [
     description: ''
   },
   {
-    latlng: [35.2467166666667,-101.946815],
+    latlng: [35.246865,-101.946505],
     title: 'S1_Point 15',
     folderPath: 'Section_1',
     ttle: 'S1D15_JAN',
+    numOfPhotos: 2,
+    images: [''], 
+    description: ''
+  },
+  {
+    latlng: [35.2467166666667,-101.946815],
+    title: 'S1_Point 16',
+    folderPath: 'Section_1',
+    ttle: 'S1D16_JAN',
     numOfPhotos: 2,
     images: [''], 
     description: ''
@@ -380,186 +398,442 @@ var structurePoints = [
   {
     latlng: [35.2442916666667,-101.947928333333],
     title: 'S2_Point 15',
+    folderPath: 'Section_2',
+    ttle: 'S2D15_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2442633333333,-101.948086666667],
     title: 'S2_Point 16',
+    folderPath: 'Section_2',
+    ttle: 'S2D16_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.244355,-101.948436666667],
     title: 'S2_Point 17',
+    folderPath: 'Section_2',
+    ttle: 'S2D17_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2443033333333,-101.949001666667],
     title: 'S2_Point 18',
+    folderPath: 'Section_2',
+    ttle: 'S2D18_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2442833333333,-101.949376666667],
     title: 'S2_Point 19',
+    folderPath: 'Section_2',
+    ttle: 'S2D19_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2442833333333,-101.949583333333],
     title: 'S2_Point 20',
+    folderPath: 'Section_2',
+    ttle: 'S2D20_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2443566666667,-101.949815],
     title: 'S2_Point 21',
+    folderPath: 'Section_2',
+    ttle: 'S2D21_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2444483333333,-101.94999],
     title: 'S2_Point 22',
+    folderPath: 'Section_2',
+    ttle: 'S2D22_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2446766666667,-101.95043],
     title: 'S2_Point 23',
+    folderPath: 'Section_2',
+    ttle: 'S2D23_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2446433333333,-101.950516666667],
     title: 'S2_Point 24',
+    folderPath: 'Section_2',
+    ttle: 'S2D24_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2444983333333,-101.950646666667],
     title: 'S2_Point 25',
+    folderPath: 'Section_2',
+    ttle: 'S2D25_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.244425,-101.950566666667],
+    title: 'S2_Point 26',
+    folderPath: 'Section_2',
+    ttle: 'S2D26_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2441916666667,-101.950245],
+    title: 'S2_Point 27',
+    folderPath: 'Section_2',
+    ttle: 'S2D27_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2439733333333,-101.950763333333],
+    title: 'S2_Point 28',
+    folderPath: 'Section_2',
+    ttle: 'S2D28_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.24396,-101.950971666667],
+    title: 'S2_Point 29',
+    folderPath: 'Section_2',
+    ttle: 'S2D29_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.24391,-101.951271666667],
+    title: 'S2_Point 30',
+    folderPath: 'Section_2',
+    ttle: 'S2D30_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   
   //          Section 3 Points
   {
-    latlng: [35.244425,-101.950566666667],
-    title: 'S3_Point 1',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.2441916666667,-101.950245],
-    title: 'S3_Point 2',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.2439733333333,-101.950763333333],
-    title: 'S3_Point 3',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.24396,-101.950971666667],
-    title: 'S3_Point 4',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.24391,-101.951271666667],
-    title: 'S3_Point 5',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
     latlng: [35.2434383333333,-101.9518],
-    title: 'S3_Point 6',
+    title: 'S3_Point 1',
+    folderPath: 'Section_3',
+    ttle: 'S3D1_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
-  //{
-  //  latlng: ,
-  //  title: 'S3_Point 7',
-  //  images: ['', ''], // Array of image paths
-  //  description: ''
-  //},
   {
-    latlng: [35.2430783333333,-101.95065],
-    title: 'S3_Point 8',
+    latlng: [35.2333333333333,-101.95],
+    title: 'S3_Point 2',
+    folderPath: 'Section_3',
+    ttle: 'S3D2_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2430683333333,-101.95065],
+    title: 'S3_Point 3',
+    folderPath: 'Section_3',
+    ttle: 'S3D3_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2426483333333,-101.950061666667],
-    title: 'S3_Point 9',
+    title: 'S3_Point 4',
+    folderPath: 'Section_3',
+    ttle: 'S3D4_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2420333333333,-101.949936666667],
-    title: 'S4_Point 1',
+    title: 'S3_Point 5',
+    folderPath: 'Section_3',
+    ttle: 'S3D5_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2414416666667,-101.949516666667],
-    title: 'S4_Point 2',
+    title: 'S3_Point 6',
+    folderPath: 'Section_3',
+    ttle: 'S3D6_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
-    latlng: [35.2400883333333,-101.949621666667],
-    title: 'S4_Point 3',
-    images: ['', ''], // Array of image paths
-    description: ''
+   latlng: [35.2400883333333,-101.949621666667],
+   title: 'S3_Point 7',
+   folderPath: 'Section_3',
+   ttle: 'S3D7_JAN',
+   numOfPhotos: 2,
+   images: ['', ''], // Array of image paths
+   description: ''
   },
   {
     latlng: [35.2398866666667,-101.949778333333],
-    title: 'S4_Point 4',
+    title: 'S3_Point 8',
+    folderPath: 'Section_3',
+    ttle: 'S3D8_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2398266666667,-101.94983],
-    title: 'S4_Point 5',
+    title: 'S3_Point 9',
+    folderPath: 'Section_3',
+    ttle: 'S3D9_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2397166666667,-101.949791666667],
-    title: 'S4_Point 6',
+    title: 'S3_Point 10',
+    folderPath: 'Section_3',
+    ttle: 'S3D10_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2395066666667,-101.950083333333],
-    title: 'S4_Point 7',
+    title: 'S3_Point 11',
+    folderPath: 'Section_3',
+    ttle: 'S3D11_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.238875,-101.951018333333],
-    title: 'S4_Point 8',
+    title: 'S3_Point 12',
+    folderPath: 'Section_3',
+    ttle: 'S3D12_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.23877,-101.951338333333],
-    title: 'S4_Point 9',
+    title: 'S3_Point 13',
+    folderPath: 'Section_3',
+    ttle: 'S3D13_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   {
     latlng: [35.2387916666667,-101.951696666667],
-    title: 'S4_Point 10',
+    title: 'S3_Point 14',
+    folderPath: 'Section_3',
+    ttle: 'S3D14_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2388083333333,-101.951816666667],
+    title: 'S3_Point 15',
+    folderPath: 'Section_3',
+    ttle: 'S3D15_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.238825,-101.935353333333],
+    title: 'S3_Point 16',
+    folderPath: 'Section_3',
+    ttle: 'S3D16_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.238885,-101.95225],
+    title: 'S3_Point 17',
+    folderPath: 'Section_3',
+    ttle: 'S3D17_JAN',
+    numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
   },
   
+  
+
+
+  //Start of Section 4
+  {
+    latlng: [35.24329,-101.951981666667],
+    title: 'S4_Point 1',
+    folderPath: 'Section_4',
+    ttle: 'S4D1_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2433166666667,-101.952366666667],
+    title: 'S4_Point 2',
+    folderPath: 'Section_4',
+    ttle: 'S4D2_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2433516666667,-101.952855],
+    title: 'S4_Point 3',
+    folderPath: 'Section_4',
+    ttle: 'S4D3_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2432383333333,-101.953255],
+    title: 'S4_Point 4',
+    folderPath: 'Section_4',
+    ttle: 'S4D4_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2434816666667,-101.953616666667],
+    title: 'S4_Point 5',
+    folderPath: 'Section_4',
+    ttle: 'S4D5_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2437666666667,-101.953878333333],
+    title: 'S4_Point 6',
+    folderPath: 'Section_4',
+    ttle: 'S4D6_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.243855,-101.954043333333],
+    title: 'S4_Point 7',
+    folderPath: 'Section_4',
+    ttle: 'S4D7_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2438983333333,-101.954411666667],
+    title: 'S4_Point 8',
+    folderPath: 'Section_4',
+    ttle: 'S4D8_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2437566666667,-101.954756666667],
+    title: 'S4_Point 9',
+    folderPath: 'Section_4',
+    ttle: 'S4D9_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.243665,-101.955163333333],
+    title: 'S4_Point 10',
+    folderPath: 'Section_4',
+    ttle: 'S4D10_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2435466666667,-101.955498333333],
+    title: 'S4_Point 11',
+    folderPath: 'Section_4',
+    ttle: 'S4D11_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2436933333333,-101.95579],
+    title: 'S4_Point 12',
+    folderPath: 'Section_4',
+    ttle: 'S4D12_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2439266666667,-101.955953333333],
+    title: 'S4_Point 13',
+    folderPath: 'Section_4',
+    ttle: 'S4D13_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.2442583333333,-101.956246666667],
+    title: 'S4_Point 14',
+    folderPath: 'Section_4',
+    ttle: 'S4D14_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
+  {
+    latlng: [35.24426,-101.9562],
+    title: 'S4_Point 15',
+    folderPath: 'Section_4',
+    ttle: 'S4D15_JAN',
+    numOfPhotos: 2,
+    images: ['', ''], // Array of image paths
+    description: ''
+  },
 
 
 
@@ -568,78 +842,78 @@ var structurePoints = [
 
 
   //          Section 3 Offshoot Points
-  {
-    latlng: [35.24329,-101.951981666667],
-    title: 'S3OS_Point 1',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.2433516666667,-101.952855],
-    title: 'S3OS_Point 2',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.2432383333333,-101.953255],
-    title: 'S3OS_Point 3',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.2434816666667,-101.953616666667],
-    title: 'S3OS_Point 4',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.2437666666667,-101.953878333333],
-    title: 'S3OS_Point 5',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.243855,-101.954043333333],
-    title: 'S3OS_Point 6',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.2438983333333,-101.954411666667],
-    title: 'S3OS_Point 7',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.2437566666667,-101.954756666667],
-    title: 'S3OS_Point 8',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.243665,-101.955163333333],
-    title: 'S3OS_Point 9',
-    images: ['', ''], // Array of image paths
-    description: ''
-  },
-  {
-    latlng: [35.2436933333333,-101.955791666667],
-    title: 'S3OS_Point 10',
-    images: ['images/image2.jpg', 'images/image2_2.jpg'], // Array of image paths
-    description: 'text'
-  },
-  {
-    latlng: [35.2439266666667,-101.955953333333],
-    title: 'S3OS_Point 11',
-    images: ['images/image2.jpg', 'images/image2_2.jpg'], // Array of image paths
-    description: 'text'
-  },
-  {
-    latlng: [35.244258333, -101.95624667],
-    title: 'S3OS_Point 12',
-    images: ['images/image2.jpg', 'images/image2_2.jpg'], // Array of image paths
-    description: 'text'
-  },
+  // {
+  //   latlng: [35.24329,-101.951981666667],
+  //   title: 'S3OS_Point 1',
+  //   images: ['', ''], // Array of image paths
+  //   description: ''
+  // },
+  // {
+  //   latlng: [35.2433516666667,-101.952855],
+  //   title: 'S3OS_Point 2',
+  //   images: ['', ''], // Array of image paths
+  //   description: ''
+  // },
+  // {
+  //   latlng: [35.2432383333333,-101.953255],
+  //   title: 'S3OS_Point 3',
+  //   images: ['', ''], // Array of image paths
+  //   description: ''
+  // },
+  // {
+  //   latlng: [35.2434816666667,-101.953616666667],
+  //   title: 'S3OS_Point 4',
+  //   images: ['', ''], // Array of image paths
+  //   description: ''
+  // },
+  // {
+  //   latlng: [35.2437666666667,-101.953878333333],
+  //   title: 'S3OS_Point 5',
+  //   images: ['', ''], // Array of image paths
+  //   description: ''
+  // },
+  // {
+  //   latlng: [35.243855,-101.954043333333],
+  //   title: 'S3OS_Point 6',
+  //   images: ['', ''], // Array of image paths
+  //   description: ''
+  // },
+  // {
+  //   latlng: [35.2438983333333,-101.954411666667],
+  //   title: 'S3OS_Point 7',
+  //   images: ['', ''], // Array of image paths
+  //   description: ''
+  // },
+  // {
+  //   latlng: [35.2437566666667,-101.954756666667],
+  //   title: 'S3OS_Point 8',
+  //   images: ['', ''], // Array of image paths
+  //   description: ''
+  // },
+  // {
+  //   latlng: [35.243665,-101.955163333333],
+  //   title: 'S3OS_Point 9',
+  //   images: ['', ''], // Array of image paths
+  //   description: ''
+  // },
+  // {
+  //   latlng: [35.2436933333333,-101.955791666667],
+  //   title: 'S3OS_Point 10',
+  //   images: ['images/image2.jpg', 'images/image2_2.jpg'], // Array of image paths
+  //   description: 'text'
+  // },
+  // {
+  //   latlng: [35.2439266666667,-101.955953333333],
+  //   title: 'S3OS_Point 11',
+  //   images: ['images/image2.jpg', 'images/image2_2.jpg'], // Array of image paths
+  //   description: 'text'
+  // },
+  // {
+  //   latlng: [35.244258333, -101.95624667],
+  //   title: 'S3OS_Point 12',
+  //   images: ['images/image2.jpg', 'images/image2_2.jpg'], // Array of image paths
+  //   description: 'text'
+  // },
   
   // Add more points as needed
 ];
