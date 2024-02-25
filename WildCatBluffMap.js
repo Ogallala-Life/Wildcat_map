@@ -677,7 +677,7 @@ var structurePoints = [
     description: ''
   },
   {
-    latlng: [35.238825,-101.935353333333],
+    latlng: [35.238825,-101.9519],
     title: 'S3_Point 16',
     folderPath: 'Section_3',
     ttle: 'S3D16_JAN',
