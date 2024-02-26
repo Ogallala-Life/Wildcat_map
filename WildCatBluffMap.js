@@ -263,7 +263,7 @@ var structurePoints = [
     images: [''], 
     description: ''
   },
-  {
+  /*{
     latlng: [35.2467166666667,-101.946815],
     title: 'S1_Point 16',
     folderPath: 'Section_1',
@@ -271,7 +271,7 @@ var structurePoints = [
     numOfPhotos: 2,
     images: [''], 
     description: ''
-  },
+  },*/
 
   //          Section 2 Points
   {
