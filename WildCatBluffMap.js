@@ -70,6 +70,7 @@ function updateMarkerInfo() {
   `;
   currentIndex = 0;
   updateGalleryImage();
+
 }
 
 function updateGalleryImage() {
@@ -78,7 +79,14 @@ function updateGalleryImage() {
 
 //############################################################################
 
-
+var selectedIcon = new L.icon({
+  iconURL: 'https://lh5.googleusercontent.com/v7FyDaTnc4AIv7hrXv6TA52mi8hRrzIfbCGTaY0ODTZjYS9oZqn0MDnC7w3-WtwupUrRezJSduvNI4TEXwhI_Su7ZVvUR0CdHe5tLDYZgUQGJ7kt',
+  iconSize:     [38, 95], // size of the icon
+  shadowSize:   [50, 64], // size of the shadow
+  iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+  shadowAnchor: [4, 62],  // the same for the shadow
+  popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+});
 
 
 
@@ -922,11 +930,9 @@ structurePoints.forEach(point => {
   // Generate image paths for the current point
   point.images = generateImagePaths(point.folderPath, point.numOfPhotos, point.ttle);
   console.log(point.images);
-
-  //Remove this line when descriptions are being set
-  point.description = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam';
-
 });
+
+console.log(structurePoints[0])
 
 
 
@@ -1000,7 +1006,7 @@ structurePoints.forEach(function(point, index) {
   });
   
   // Change color of selected marker to green
-  marker.setIcon(L.divIcon({ className: 'my-marker-green' }));
+  marker.setIcon(L.divIcon({ className: 'selectedIcon' }));
 
     // Update the current point index
     currentPointIndex = index;
