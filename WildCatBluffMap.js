@@ -922,6 +922,9 @@ structurePoints.forEach(point => {
   // Generate image paths for the current point
   point.images = generateImagePaths(point.folderPath, point.numOfPhotos, point.ttle);
   console.log(point.images);
+
+  point.description = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
+
 });
 
 console.log(structurePoints[0])
