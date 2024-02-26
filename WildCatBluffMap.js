@@ -154,7 +154,7 @@ var structurePoints = [
    images: [''], 
    description: ''
   },
-  {
+  /*{
     latlng: [35.2333333333333,-101.933333333333],
     title: 'S1_Point 4',
     folderPath: 'Section_1',
@@ -162,7 +162,7 @@ var structurePoints = [
     numOfPhotos: 2,
     images: [''], 
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
-  },
+  },*/
   {
     latlng: [35.248305,-101.94591],
     title: 'S1_Point 5',
@@ -558,7 +558,7 @@ var structurePoints = [
     images: ['', ''], // Array of image paths
     description: ''
   },
-  {
+  /*{
     latlng: [35.2333333333333,-101.95],
     title: 'S3_Point 2',
     folderPath: 'Section_3',
@@ -566,7 +566,7 @@ var structurePoints = [
     numOfPhotos: 2,
     images: ['', ''], // Array of image paths
     description: ''
-  },
+  },*/
   {
     latlng: [35.2430683333333,-101.95065],
     title: 'S3_Point 3',
