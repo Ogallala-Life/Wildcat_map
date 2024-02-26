@@ -103,4 +103,17 @@ background: url(ripples.png) repeat 0 0;
   border: none;
 }
 
+.my-marker {
+  background-color: red;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+}
+
+.my-marker-green {
+  background-color: green;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+}
 
