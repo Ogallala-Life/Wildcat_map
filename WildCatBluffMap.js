@@ -409,7 +409,7 @@ var structurePoints = [
     title: 'S2_Point 16',
     folderPath: 'Section_2',
     ttle: 'S2D16_JAN',
-    numOfPhotos: 2,
+    numOfPhotos: 3,
     images: ['', ''], // Array of image paths
     description: ''
   },
@@ -427,7 +427,7 @@ var structurePoints = [
     title: 'S2_Point 18',
     folderPath: 'Section_2',
     ttle: 'S2D18_JAN',
-    numOfPhotos: 2,
+    numOfPhotos: 3,
     images: ['', ''], // Array of image paths
     description: ''
   },
