@@ -992,6 +992,14 @@ structurePoints.forEach(function(point, index) {
       <p>${point.description}</p>
     `;
 
+
+    points.forEach(p => {
+      p.marker.setIcon(L.divIcon({ className: 'my-marker' })); // Reset marker color
+  });
+  
+  // Change color of selected marker to green
+  marker.setIcon(L.divIcon({ className: 'my-marker-green' }));
+
     // Update the current point index
     currentPointIndex = index;
 
@@ -1000,6 +1008,25 @@ structurePoints.forEach(function(point, index) {
     updateGalleryImage();
   });
 });
+
+/*CSS styling for changing color of selected point ###### MOVED TO .CSS ######
+var markerStyle = `
+    .my-marker {
+        background-color: red;
+        border-radius: 50%;
+        width: 10px;
+        height: 10px;
+    }
+    
+    .my-marker-green {
+        background-color: green;
+        border-radius: 50%;
+        width: 10px;
+        height: 10px;
+    }
+`;
+*/
+
 
 // Add a control to toggle between Street View and Satellite View
 var baseMaps = {
