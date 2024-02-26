@@ -1043,8 +1043,8 @@ var mapKeyControl = L.control({position: 'bottomleft'});
 mapKeyControl.onAdd = function (map) {
   var div = L.DomUtil.create('div', 'map-key');
   div.innerHTML += '<h4>Map Key</h4>';
-  div.innerHTML += '<p><span class="map-marker red"></span> Red Marker</p>';
-  div.innerHTML += '<p><span class="map-marker blue"></span> Blue Marker</p>';
+  div.innerHTML += '<p><span class="map-marker red"></span> Landmarks</p>';
+  div.innerHTML += '<p><span class="map-marker blue"></span> Structures</p>';
   return div;
 };
 
