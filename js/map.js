@@ -3,14 +3,16 @@ import { fetchPoints } from './supabase-client.js';
 
 document.addEventListener('DOMContentLoaded', function() {
     console.log('Initializing map...');
-    var map = L.map('mapid').setView([35.235470, -101.940676], 13);
+    var map = L.map('mapid').setView([35.2425,-101.9445], 14);
     console.log('Map initialized.');
 
     var currentPointIndex = 0; // Start with the first point
     var allPoints = []; // This should be filled with your points data
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: 'Map data © OpenStreetMap contributors'
+    L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+        attribution: 'Map data: © OpenStreetMap contributors, SRTM | Map style: © OpenTopoMap (CC-BY-SA)',
+        maxNativeZoom: 17,
+        minZoom: 14
     }).addTo(map);
 
     var normalIcon = L.icon({
