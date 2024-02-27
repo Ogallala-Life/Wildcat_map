@@ -1,4 +1,4 @@
 # Wildcat_map
 
 
-[Github pages: WildCatBluffMap.html](https://ogallala-life.github.io/Wildcat_map/WildCatBluffMap.html)
+[Github pages: index.html](https://ogallala-life.github.io/Wildcat_map/index.html)
