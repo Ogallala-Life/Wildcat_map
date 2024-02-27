@@ -16,8 +16,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }).addTo(map);
 
     var normalIcon = L.icon({
-        iconUrl: 'Wildcat_map/assets/leaf-green.png',
-        shadowUrl: 'Wildcat_map/assets/leaf-shadow.png',
+        iconUrl: 'assets/leaf-green.png',
+        shadowUrl: 'assets/leaf-shadow.png',
         iconSize:     [38, 95], // size of the icon
         shadowSize:   [50, 64], // size of the shadow
         iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
@@ -26,8 +26,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     var highlightedIcon = L.icon({
-        iconUrl: 'Wildcat_map/assets/leaf-red.png',
-        shadowUrl: 'Wildcat_map/assets/leaf-shadow.png',
+        iconUrl: 'assets/leaf-red.png',
+        shadowUrl: 'assets/leaf-shadow.png',
         iconSize:     [38, 95], // size of the icon
         shadowSize:   [50, 64], // size of the shadow
         iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
