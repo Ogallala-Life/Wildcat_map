@@ -16,8 +16,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }).addTo(map);
 
     var normalIcon = L.icon({
-        iconUrl: './assets/leaf-green.png',
-        shadowUrl: './assets/leaf-shadow.png',
+        iconUrl: 'https://ogallala-life.github.io/Wildcat_map/assets/leaf-green.png',
+        shadowUrl: 'https://ogallala-life.github.io/Wildcat_map/assets/leaf-shadow.png',
         iconSize:     [38, 95], // size of the icon
         shadowSize:   [50, 64], // size of the shadow
         iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
@@ -26,8 +26,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     var highlightedIcon = L.icon({
-        iconUrl: './assets/leaf-red.png',
-        shadowUrl: './assets/leaf-shadow.png',
+        iconUrl: 'https://ogallala-life.github.io/Wildcat_map/assets/leaf-red.png',
+        shadowUrl: 'https://ogallala-life.github.io/Wildcat_map/assets/leaf-shadow.png',
         iconSize:     [38, 95], // size of the icon
         shadowSize:   [50, 64], // size of the shadow
         iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
