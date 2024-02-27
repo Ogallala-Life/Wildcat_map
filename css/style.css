@@ -4,9 +4,10 @@ body, html {
   padding: 0;
   height: 100%;
 }
+
 #mapid {
-  height: 400px;
-  width: 600px;
+  height: 70vh;
+  width: 95vw; 
 }
 
 .leaflet-control-custom {
