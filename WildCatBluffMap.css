@@ -50,7 +50,7 @@ background: url(ripples.png) repeat 0 0;
 #gallery-container {
   position: relative;
   width: 100%;
-  height: 300px; /* Set gallery height */
+  height: 800px; /* Set gallery height */
   overflow: hidden;
 }
 
