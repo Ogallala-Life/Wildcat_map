@@ -85,6 +85,7 @@ background: url(ripples.png) repeat 0 0;
 }
 
 #info-container {
+  position: relative;
   margin-top: 20px; /* Adjust spacing as needed */
   text-align:center;
 }
